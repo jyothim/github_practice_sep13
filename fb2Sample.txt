@@ -1,5 +1,0 @@
-
-this is sample file from Fbranch2 from CLI
-
-this is sample file from fbranch2 
-after merger from  Fbranch2 both lines
