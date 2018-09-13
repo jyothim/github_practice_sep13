@@ -1,2 +1,3 @@
+adding aline form CLI after checking outht FBranch on local rep
 This is a sample file from fbranch1
 this branch is created in github
